@@ -1,4 +1,4 @@
-[
+export const banks = [
     {
         "name": "Access Bank",
         "slug": "access-bank",

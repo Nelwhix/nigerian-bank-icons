@@ -1,4 +1,4 @@
-import banks from './assets/banks.json'
+import { banks } from './assets/banks'
 
 const getLogoUrl = (dynamicPart) => {
     for (let bank of banks) {
