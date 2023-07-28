@@ -1,0 +1,19 @@
+{
+  "name": "nigerian-bank-icons",
+  "version": "1.0.0",
+  "description": "Javascript package to render nigerian bank icons from their bank code ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelwhix/nigerian-bank-icons.git"
+  },
+  "author": "Nelson Isioma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nelwhix/nigerian-bank-icons/issues"
+  },
+  "homepage": "https://github.com/Nelwhix/nigerian-bank-icons#readme"
+}
