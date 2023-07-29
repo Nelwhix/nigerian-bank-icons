@@ -29,3 +29,6 @@ Add this to your html, replace xx with the bank code
 ```
 
 and done!
+
+### Contributing
+The package is tested to work with plain html/css setups and Vue. Any help to make it work with react and SSR will be appreciated
