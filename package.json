@@ -1,7 +1,7 @@
 {
   "name": "nigerian-bank-icons",
-  "version": "1.0.2",
-  "description": "Javascript package to render nigerian bank icons from their bank code ",
+  "version": "2.0.0",
+  "description": "A curated collection of all nigerian bank logos — plus the CSS for easier integration.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
