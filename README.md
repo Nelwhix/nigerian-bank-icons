@@ -9,16 +9,10 @@ You can install the package via npm
 ```
 
 ## Usage
-First you need to import the css 
+All you need is to import the css 
 
 ```js
-    import "nigerian-bank-icons/assets/index.css"
-```
-
-and then add the script in your html head tag
-
-```html
-    <script type="module" src="/node_modules/nigerian-bank-icons/main.js"></script>
+    import "nigerian-bank-icons/index.css"
 ```
 
 ## Usage
@@ -29,6 +23,3 @@ Add this to your html, replace xx with the bank code
 ```
 
 and done!
-
-### Contributing
-The package is tested to work with plain html/css setups and Vue. Any help to make it work with react and SSR will be appreciated
